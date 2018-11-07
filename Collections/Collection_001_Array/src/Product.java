@@ -1,7 +1,6 @@
 package com.sametdemirel.collections;
 
 public class Product {
-
     private final String productName;
     private final int productWeight;
 
