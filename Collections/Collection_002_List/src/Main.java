@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //Kapı, parke ve pencere ürünleri oluşturuluyor
+        //Kapı, parke ve pencere ürünleri oluşturuluyor...
         Urunler kapi = new Urunler("Kapı", 35);
         Urunler parke = new Urunler("Laminat Parke", 25);
         Urunler pencere = new Urunler("Pencere", 10);
