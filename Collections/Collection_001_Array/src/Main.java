@@ -1,6 +1,5 @@
 package com.sametdemirel.collections;
 
-
 import java.util.Arrays;
 
 public class Main {
